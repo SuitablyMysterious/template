@@ -3,7 +3,7 @@ description: File a bug report.
 title: "[Bug]: "
 labels: ["type:bug", "triage:needed"]
 assignees:
-  - \@SuitablyMysterious
+  - SuitablyMysterious
 type: bug
 body:
   - type: markdown
